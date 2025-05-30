@@ -1,12 +1,11 @@
-# RobotVRMのサポートページ
+# English
 
-本リポジトリはRobotVRMのサポートを行うためのページです。
+## Support page for RobotVRM
 
-## ホームサーバー構築手順
+This repository is a page to support RobotVRM. (Sorry, RobotVRM program is now private)
 
-- [家庭内LANのVOICEVOXサーバーの構築手順](./docs/voicevox_server.md)
-- [家庭内LANのStyle-Bert-VITS2サーバーの構築手順](./docs/style-bert-vits2_server.md)
+# 日本語
 
-## 問い合わせ先
+## RobotVRMのサポートページ
 
-developer@robotvrm.com
+本リポジトリはRobotVRMのサポートを行うためのページです。(申し訳ありませんが、RobotVRMのプログラムは非公開になりました)
